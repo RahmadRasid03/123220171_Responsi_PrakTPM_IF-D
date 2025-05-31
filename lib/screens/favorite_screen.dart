@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsi_143/screens/detail_screen.dart';
+import 'package:responsi_171/screens/detail_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/phone.dart';
 import '../services/api_service.dart';
